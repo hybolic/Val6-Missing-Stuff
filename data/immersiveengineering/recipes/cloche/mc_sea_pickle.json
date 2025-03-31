@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "minecraft:sea_pickle"
+    }],
+    "render": {
+        "block": "minecraft:sea_pickle",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "minecraft:sea_pickle"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:water_bucket"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

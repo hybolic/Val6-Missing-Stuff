@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "biomesoplenty:lavender"
+    }],
+    "render": {
+        "block": "biomesoplenty:lavender",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "biomesoplenty:lavender"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

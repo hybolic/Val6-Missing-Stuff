@@ -1,0 +1,16 @@
+{
+    "duration": 10000,
+    "gasInput": {
+        "amount": 17,
+        "gas": "mekanism:antimatter"
+    },
+    "itemInput": {
+        "ingredient": {
+            "item": "minecraft:torchflower"
+        }
+    },
+    "output": {
+        "item": "minecraft:sniffer_egg"
+    },
+    "type": "mekanism:nucleosynthesizing"
+}

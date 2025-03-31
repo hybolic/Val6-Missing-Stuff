@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "undergarden:blood_mushroom"
+    }],
+    "render": {
+        "block": "undergarden:blood_mushroom",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "undergarden:blood_mushroom"
+        }
+    ],
+    "soil": {
+        "item": "undergarden:deepsoil"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

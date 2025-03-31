@@ -1,0 +1,16 @@
+{
+    "duration": 10000,
+    "gasInput": {
+        "amount": 5,
+        "gas": "mekanism:antimatter"
+    },
+    "itemInput": {
+        "ingredient": {
+            "item": "minecraft:slime_ball"
+        }
+    },
+    "output": {
+        "item": "minecraft:frogspawn"
+    },
+    "type": "mekanism:nucleosynthesizing"
+}

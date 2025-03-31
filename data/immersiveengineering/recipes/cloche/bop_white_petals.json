@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "biomesoplenty:white_petals"
+    }],
+    "render": {
+        "block": "biomesoplenty:white_petals",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "biomesoplenty:white_petals"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

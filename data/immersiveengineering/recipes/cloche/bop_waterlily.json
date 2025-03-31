@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "biomesoplenty:waterlily"
+    }],
+    "render": {
+        "block": "biomesoplenty:waterlily",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "biomesoplenty:waterlily"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:water_bucket"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

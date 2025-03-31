@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "twilightforest:torchberry_plant"
+    }],
+    "render": {
+        "block": "twilightforest:torchberry_plant",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "twilightforest:torchberry_plant"
+        }
+    ],
+    "soil": {
+        "item": "minecrat:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

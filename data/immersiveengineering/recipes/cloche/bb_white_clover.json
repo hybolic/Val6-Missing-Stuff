@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "buzzier_bees:white_clover"
+    }],
+    "render": {
+        "block": "buzzier_bees:white_clover",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "buzzier_bees:white_clover"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

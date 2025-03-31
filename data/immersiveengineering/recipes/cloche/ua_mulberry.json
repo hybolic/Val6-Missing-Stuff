@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "upgrade_aquatic:mulberry"
+    }],
+    "render": {
+        "block": "upgrade_aquatic:mulberry_vine",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "upgrade_aquatic:mulberry"
+        }
+    ],
+    "soil": {
+        "item": "upgrade_aquatic:river_leaves"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

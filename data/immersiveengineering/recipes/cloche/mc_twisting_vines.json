@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "minecraft:twisting_vines"
+    }],
+    "render": {
+        "block": "minecraft:twisting_vines",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "minecraft:twisting_vines"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:warped_nylium"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

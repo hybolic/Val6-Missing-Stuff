@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "twilightforest:thorn_rose"
+    }],
+    "render": {
+        "block": "twilightforest:thorn_rose",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "twilightforest:thorn_rose"
+        }
+    ],
+    "soil": {
+        "item": "twilightforest:liveroot_block"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

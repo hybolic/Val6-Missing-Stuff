@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "undergarden:underbeans"
+    }],
+    "render": {
+        "block": "undergarden:underbean_bush",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "undergarden:underbeans"
+        }
+    ],
+    "soil": {
+        "item": "undergarden:deepsoil"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

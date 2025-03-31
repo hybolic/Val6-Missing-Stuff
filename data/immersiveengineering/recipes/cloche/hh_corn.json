@@ -1,0 +1,20 @@
+{
+    "input": [{
+        "item": "'hauntedharvest:kernels'"
+    }],
+    "render": {
+        "block": "hauntedharvest:corn_top",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "hauntedharvest:corn",
+            "count":2
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "upgrade_aquatic:white_searocket"
+    }],
+    "render": {
+        "block": "upgrade_aquatic:white_searocket",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "upgrade_aquatic:white_searocket"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

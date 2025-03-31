@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "biomesoplenty:blue_hydrangea"
+    }],
+    "render": {
+        "block": "biomesoplenty:blue_hydrangea",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "biomesoplenty:blue_hydrangea"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

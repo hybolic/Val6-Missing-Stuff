@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "twilightforest:huge_water_lily"
+    }],
+    "render": {
+        "block": "twilightforest:huge_water_lily",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "twilightforest:huge_water_lily"
+        }
+    ],
+    "soil": {
+        "item": "minecrat:water_bucket"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

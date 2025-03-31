@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "twilightforest:mushgloom"
+    }],
+    "render": {
+        "block": "twilightforest:mushgloom",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "twilightforest:mushgloom"
+        }
+    ],
+    "soil": {
+        "item": "minecrat:mycelium"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "minecraft:cocoa"
+    }],
+    "render": {
+        "block": "minecraft:jungle_sapling",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "minecraft:cocoa"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:jungle_wood"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

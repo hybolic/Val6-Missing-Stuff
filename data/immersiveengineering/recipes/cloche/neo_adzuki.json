@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "neapolitan:adzuki_beans"
+    }],
+    "render": {
+        "block": "neapolitan:adzuki_sprouts",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "neapolitan:adzuki_beans"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

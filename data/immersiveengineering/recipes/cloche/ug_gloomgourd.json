@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "undergarden:gloomgourd_seeds"
+    }],
+    "render": {
+        "block": "undergarden:gloomgourd",
+        "type": "stem"
+    },
+    "results": [
+        {
+            "item": "undergarden:gloomgourd_seeds"
+        }
+    ],
+    "soil": {
+        "item": "undergarden:deepsoil"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

@@ -1,0 +1,22 @@
+{
+    "input": [{
+        "item": "minecraft:pitcher_crop"
+    }],
+    "render": {
+        "block": "minecraft:pitcher_plant",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "minecraft:pitcher_crop"
+        },
+        {
+            "item": "minecraft:pitcher_plant"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

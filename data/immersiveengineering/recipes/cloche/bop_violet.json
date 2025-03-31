@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "biomesoplenty:violet"
+    }],
+    "render": {
+        "block": "biomesoplenty:violet",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "biomesoplenty:violet"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

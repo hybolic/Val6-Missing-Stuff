@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "biomesoplenty:pink_hibiscus"
+    }],
+    "render": {
+        "block": "biomesoplenty:pink_hibiscus",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "biomesoplenty:pink_hibiscus"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

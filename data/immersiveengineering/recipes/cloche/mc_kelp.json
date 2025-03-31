@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "minecraft:kelp"
+    }],
+    "render": {
+        "block": "minecraft:kelp",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "minecraft:kelp"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:water_bucket"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

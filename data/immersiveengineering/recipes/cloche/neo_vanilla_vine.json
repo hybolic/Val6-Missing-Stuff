@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "neapolitan:vanilla_vine"
+    }],
+    "render": {
+        "block": "neapolitan:vanilla_vine_plant",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "neapolitan:vanilla_vine"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

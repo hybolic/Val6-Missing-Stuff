@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "undergarden:shimmerweed"
+    }],
+    "render": {
+        "block": "undergarden:shimmerweed",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "undergarden:shimmerweed"
+        }
+    ],
+    "soil": {
+        "item": "undergarden:deepsoil"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

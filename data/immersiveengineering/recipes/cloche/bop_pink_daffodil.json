@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "biomesoplenty:pink_daffodil"
+    }],
+    "render": {
+        "block": "biomesoplenty:pink_daffodil",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "biomesoplenty:pink_daffodil"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

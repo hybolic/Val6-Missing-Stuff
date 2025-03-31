@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "undergarden:glitterkelp"
+    }],
+    "render": {
+        "block": "undergarden:glitterkelp",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "undergarden:glitterkelp"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:water_bucket"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

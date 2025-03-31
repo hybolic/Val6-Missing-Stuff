@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "minecraft:weeping_vines"
+    }],
+    "render": {
+        "block": "minecraft:weeping_vines",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "minecraft:weeping_vines"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:nether_wart_block"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

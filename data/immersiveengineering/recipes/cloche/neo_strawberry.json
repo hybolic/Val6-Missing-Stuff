@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "neapolitan:strawberry_pips"
+    }],
+    "render": {
+        "block": "neapolitan:strawberry_bush",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "neapolitan:strawberries"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

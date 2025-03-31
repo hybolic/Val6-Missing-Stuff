@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "alexscaves:flytrap"
+    }],
+    "render": {
+        "block": "alexscaves:flytrap",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "alexscaves:flytrap"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

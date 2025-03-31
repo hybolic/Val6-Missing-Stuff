@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "forbidden_arcanus:yellow_orchid"
+    }],
+    "render": {
+        "block": "forbidden_arcanus:yellow_orchid",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "forbidden_arcanus:yellow_orchid"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

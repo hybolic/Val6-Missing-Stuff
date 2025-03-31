@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "undergarden:miserabell"
+    }],
+    "render": {
+        "block": "undergarden:miserabell",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "undergarden:miserabell"
+        }
+    ],
+    "soil": {
+        "item": "undergarden:deepsoil"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

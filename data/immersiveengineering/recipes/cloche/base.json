@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": ""
+    }],
+    "render": {
+        "block": "",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": ""
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

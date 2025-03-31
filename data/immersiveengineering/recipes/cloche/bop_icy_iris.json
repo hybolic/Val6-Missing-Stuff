@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "biomesoplenty:icy_iris"
+    }],
+    "render": {
+        "block": "biomesoplenty:icy_iris",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "biomesoplenty:icy_iris"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:snow"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

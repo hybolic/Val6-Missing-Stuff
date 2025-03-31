@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "enlightened_end:cradling_flower"
+    }],
+    "render": {
+        "block": "enlightened_end:cradling_flower",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "enlightened_end:cradling_flower"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:end_stone"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

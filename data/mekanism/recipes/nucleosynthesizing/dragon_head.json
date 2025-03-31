@@ -1,0 +1,16 @@
+{
+    "duration": 10000,
+    "gasInput": {
+        "amount": 15,
+        "gas": "mekanism:antimatter"
+    },
+    "itemInput": {
+        "ingredient": {
+            "item": "quark:dragon_scale"
+        }
+    },
+    "output": {
+        "item": "minecraft:dragon_head"
+    },
+    "type": "mekanism:nucleosynthesizing"
+}

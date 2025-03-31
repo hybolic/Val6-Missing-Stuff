@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "biomesoplenty:wildflower"
+    }],
+    "render": {
+        "block": "biomesoplenty:wildflower",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "biomesoplenty:wildflower"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

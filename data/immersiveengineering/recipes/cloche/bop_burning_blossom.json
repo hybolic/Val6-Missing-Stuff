@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "biomesoplenty:burning_blossom"
+    }],
+    "render": {
+        "block": "biomesoplenty:burning_blossom",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "biomesoplenty:burning_blossom"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "upgrade_aquatic:flowering_rush"
+    }],
+    "render": {
+        "block": "upgrade_aquatic:flowering_rush",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "upgrade_aquatic:flowering_rush"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

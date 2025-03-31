@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "buzzier_bees:buttercup"
+    }],
+    "render": {
+        "block": "buzzier_bees:buttercup",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "buzzier_bees:buttercup"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

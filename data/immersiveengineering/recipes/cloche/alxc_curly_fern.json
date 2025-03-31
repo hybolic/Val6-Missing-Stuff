@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "alexscaves:curly_fern"
+    }],
+    "render": {
+        "block": "alexscaves:curly_fern",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "alexscaves:curly_fern"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

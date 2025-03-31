@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "biomesoplenty:toadstool"
+    }],
+    "render": {
+        "block": "biomesoplenty:toadstool",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "biomesoplenty:toadstool"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:mycelium"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

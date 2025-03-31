@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "biomesoplenty:glowflower"
+    }],
+    "render": {
+        "block": "biomesoplenty:glowflower",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "biomesoplenty:glowflower"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

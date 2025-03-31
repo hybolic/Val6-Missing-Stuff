@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "biomesoplenty:goldenrod"
+    }],
+    "render": {
+        "block": "biomesoplenty:goldenrod",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "biomesoplenty:goldenrod"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}

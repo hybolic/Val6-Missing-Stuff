@@ -1,0 +1,19 @@
+{
+    "input": [{
+        "item": "upgrade_aquatic:pickerelweed"
+    }],
+    "render": {
+        "block": "upgrade_aquatic:pickerelweed",
+        "type": "generic"
+    },
+    "results": [
+        {
+            "item": "upgrade_aquatic:pickerelweed"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:water_bucket"
+    },
+    "time": 480,
+    "type": "immersiveengineering:cloche"
+}
