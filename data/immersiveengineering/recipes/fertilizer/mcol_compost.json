@@ -1,0 +1,7 @@
+{
+    "growthModifier": 1.6,
+    "input": {
+        "item": "minecolonies:compost"
+    },
+    "type": "immersiveengineering:fertilizer"
+}

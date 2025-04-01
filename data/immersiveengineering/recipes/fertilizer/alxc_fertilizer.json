@@ -1,0 +1,7 @@
+{
+    "growthModifier": 1.6,
+    "input": {
+        "item": "alexcaves:fertilizer"
+    },
+    "type": "immersiveengineering:fertilizer"
+}

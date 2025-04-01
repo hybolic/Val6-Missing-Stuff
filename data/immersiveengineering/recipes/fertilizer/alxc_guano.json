@@ -1,0 +1,7 @@
+{
+    "growthModifier": 1.2,
+    "input": {
+        "item": "alexcaves:guano"
+    },
+    "type": "immersiveengineering:fertilizer"
+}
