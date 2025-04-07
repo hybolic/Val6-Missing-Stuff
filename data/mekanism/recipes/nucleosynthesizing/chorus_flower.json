@@ -1,0 +1,16 @@
+{
+    "duration": 500,
+    "gasInput": {
+        "amount": 2,
+        "gas": "mekanism:antimatter"
+    },
+    "itemInput": {
+        "ingredient": {
+            "item": "minecraft:chorus_fruit"
+        }
+    },
+    "output": {
+        "item": "minecraft:chorus_flower"
+    },
+    "type": "mekanism:nucleosynthesizing"
+}
